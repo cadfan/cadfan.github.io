@@ -5,18 +5,18 @@ favicon: images/favicon.ico
 version: 1
 
 # Personal info
-name: James Grant
-title: Full Stack Web Developer
-email: james@jameswgrant.co.uk
+name: Christopher Griffiths
+title: 
+email: chris@griffiths.cymru
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+# twitter_username: 
+# github_username:  
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: 
+# linkedin_username: 
 # pinterest_username:
 # youtube_username:
 # googleplus_username:
@@ -25,8 +25,8 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/jg.jpg
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web developer with over 8 years experience currently specialising in React development.
-  I am currently working for NatWest as a frontend software engineer on their comercial banking platform, Bankline.
+  Hi, my name is Christopher Griffiths, I have an interest and career in translation, localisation and project management as well as software development, hardware and retail.
+  I am currently freelancing
 
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
